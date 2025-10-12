@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-12T14:30:13.565646+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-10-12T15:19:39.822772+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普突然变脸威胁中国，发飙中难掩肝颤",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时37分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[09时37分 ~ 15时19分]"
         },
         {
           "title": "中美稀土博弈特朗普为何破防",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 14时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 15时19分]"
         },
         {
           "title": "如何看特朗普最新关税恐吓",
@@ -224,42 +224,6 @@
           "time_info": "[00时28分 ~ 02时56分]"
         },
         {
-          "title": "特朗普要求确保发军饷 却并未透露资金来源",
-          "url": "https://flash.jin10.com/detail/20251012123317895800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时30分]"
-        },
-        {
-          "title": "美国总统特朗普：Dan Scavino除了继续担任特朗普政府的副幕僚长外，还将领导白宫总统人事办公室，接替Sergio Gor。Sergio Gor现在将担任驻印度大使。",
-          "url": "https://flash.jin10.com/detail/20251012122815950800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普周一将在以色列议会发表讲话",
-          "url": "https://wallstreetcn.com/livenews/2986247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时30分]"
-        },
-        {
           "title": "“青蛙、恐龙”上街 抗议特朗普政府",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%9D%92%E8%9B%99%E3%80%81%E6%81%90%E9%BE%99%E2%80%9D%E4%B8%8A%E8%A1%97+%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C",
           "source": "百度热搜",
@@ -267,8 +231,47 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 14时30分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普要求确保发军饷 却并未透露资金来源",
+          "url": "https://flash.jin10.com/detail/20251012123317895800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时19分]"
+        },
+        {
+          "title": "美国总统特朗普：Dan Scavino除了继续担任特朗普政府的副幕僚长外，还将领导白宫总统人事办公室，接替Sergio Gor。Sergio Gor现在将担任驻印度大使。",
+          "url": "https://flash.jin10.com/detail/20251012122815950800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普周一将在以色列议会发表讲话",
+          "url": "https://wallstreetcn.com/livenews/2986247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时19分]"
         },
         {
           "title": "美国总统特朗普：Dan Scavino除了继续担任特朗普政府的副幕僚长外，还将领导白宫总统人事办公室，接替Sergio Gor。Sergio Gor现在将担任驻印度大使。",
@@ -276,22 +279,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时30分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时19分]"
         },
         {
           "title": "伦敦白银市场出现流动性危机 交易员担忧特朗普政府酝酿另一个大招",
           "url": "https://www.cls.cn/detail/2166669",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时19分]"
         },
         {
           "title": "特朗普要求确保支付军人薪资",
@@ -303,6 +308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普加关税是有备而来",
+          "url": "https://www.toutiao.com/trending/7560150471369821722/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "美政府“停摆”第11天，特朗普要求确保支付军人薪资",
@@ -345,11 +361,28 @@
             25,
             7,
             23,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 15时19分]"
+        },
+        {
+          "title": "美股全线暴跌对A股冲击会有多大",
+          "url": "https://www.toutiao.com/trending/7560106683574259251/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2,
+            5,
+            16,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时37分 ~ 15时19分]"
         },
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -362,23 +395,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 14时30分]"
-        },
-        {
-          "title": "美股全线暴跌对A股冲击会有多大",
-          "url": "https://www.toutiao.com/trending/7560106683574259251/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            5,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时37分 ~ 14时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 15时19分]"
         },
         {
           "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
@@ -391,8 +409,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时37分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[09时37分 ~ 15时19分]"
+        },
+        {
+          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
+          "url": "https://www.cls.cn/detail/2166644",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 15时19分]"
         },
         {
           "title": "美股跳水",
@@ -405,19 +436,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 04时20分]"
-        },
-        {
-          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
-          "url": "https://www.cls.cn/detail/2166644",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时30分]"
         }
       ]
     },
