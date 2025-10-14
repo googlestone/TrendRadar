@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T16:27:42.870095+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2025-10-14T17:23:14.871787+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -87,6 +87,20 @@
           "time_info": "[00时26分 ~ 09时28分]"
         },
         {
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            7,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时04分 ~ 17时23分]"
+        },
+        {
           "title": "内塔尼亚胡向特朗普赠送金鸽子雕塑",
           "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A0%E9%80%81%E9%87%91%E9%B8%BD%E5%AD%90%E9%9B%95%E5%A1%91",
           "source": "百度热搜",
@@ -132,8 +146,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 16时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 17时23分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -145,11 +159,12 @@
             19,
             18,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 16时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 17时23分]"
         },
         {
           "title": "以色列送了特朗普一个特别的礼物",
@@ -164,20 +179,6 @@
           "time_info": "[09时28分 ~ 13时23分]"
         },
         {
-          "title": "特朗普签署加沙停火协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            7,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 16时27分]"
-        },
-        {
           "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
           "url": "https://v.ifeng.com/c/8nRLZYpIezc",
           "source": "凤凰网",
@@ -185,8 +186,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 17时23分]"
         },
         {
           "title": "特朗普C位合影喊话：大家笑起来",
@@ -197,11 +198,12 @@
             18,
             19,
             26,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时04分 ~ 17时23分]"
         },
         {
           "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
@@ -283,6 +285,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时28分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普马克龙26秒“掰手腕式握手”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时04分 ~ 17时23分]"
         },
         {
           "title": "特朗普在以色列议会演讲被打断",
@@ -372,17 +387,16 @@
           "time_info": "[02时30分 ~ 04时25分]"
         },
         {
-          "title": "特朗普马克龙26秒“掰手腕式握手”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特朗普为何要保住对华贸易",
+          "url": "https://www.toutiao.com/trending/7560960551040323135/",
+          "source": "今日头条",
           "ranks": [
-            25,
-            23,
-            16
+            9,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时04分 ~ 16时27分]"
+          "time_info": "[16时27分 ~ 17时23分]"
         },
         {
           "title": "美国总统特朗普：加沙将有许多资金和建筑物。",
@@ -468,6 +482,17 @@
           "time_info": "[00时26分 ~ 01时19分]"
         },
         {
+          "title": "特朗普将卡尼误称为总统",
+          "url": "https://www.douyin.com/hot/2269224",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
           "title": "普京和特朗普未就通话事宜达成一致",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E5%B0%B1%E9%80%9A%E8%AF%9D%E4%BA%8B%E5%AE%9C%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4",
           "source": "百度热搜",
@@ -490,24 +515,13 @@
           "time_info": "13时23分"
         },
         {
-          "title": "特朗普为何要保住对华贸易",
-          "url": "https://www.toutiao.com/trending/7560960551040323135/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "以前总理反驳特朗普：内塔尼亚胡都没认罪，赦免他是巨大的丑闻",
           "url": "https://news.ifeng.com/c/8nRf7tuZiTU",
           "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -631,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "特朗普抱怨时代周刊封面图史上最差",
+          "url": "https://wallstreetcn.com/livenews/2987394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "唐驳虎：特朗普的口风越来越软",
@@ -790,7 +815,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
@@ -808,11 +833,12 @@
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 16时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 17时23分]"
         },
         {
           "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
@@ -894,24 +920,13 @@
           "time_info": "[07时18分 ~ 07时19分]"
         },
         {
-          "title": "美股稀土股盘前普涨，USA Rare Earth涨超11%，MP Materials涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/2987376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "纳微半导体(NVTS.O)美股盘前大涨24%，此前公司宣布在为英伟达数据中心基础设施研发芯片方面取得进展。",
           "url": "https://flash.jin10.com/detail/20251014161434030800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -922,7 +937,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -937,6 +952,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时19分]"
+        },
+        {
+          "title": "美股稀土股盘前普涨，USA Rare Earth涨超11%，MP Materials涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/2987376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时23分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超3%",
@@ -975,13 +1002,24 @@
           "time_info": "[05时19分 ~ 06时21分]"
         },
         {
+          "title": "美股盘前中概股走低，阿里巴巴(BABA.N)下跌3.7%，拼多多(PDD.O)下跌2.4%，百度(BIDU.O)下跌3.6%。",
+          "url": "https://flash.jin10.com/detail/20251014171305290800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "美股盘前，明星科技股普跌，英伟达、博通、甲骨文均跌超2%。热门中概股盘前下跌，哔哩哔哩跌5％。",
           "url": "https://wallstreetcn.com/livenews/2987359",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -1031,11 +1069,25 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时04分 ~ 17时23分]"
+        },
+        {
+          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
+          "url": "https://wallstreetcn.com/articles/3757107",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时18分 ~ 17时23分]"
         },
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -1052,19 +1104,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
-          "url": "https://wallstreetcn.com/articles/3757107",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 15时24分]"
         },
         {
           "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
@@ -1220,11 +1259,12 @@
           "source": "微博",
           "ranks": [
             2,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 17时23分]"
         },
         {
           "title": "金价疯狂涨势还能持续多久",
@@ -1383,7 +1423,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
