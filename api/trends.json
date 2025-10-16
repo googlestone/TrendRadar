@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T16:31:27.633529+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2025-10-16T17:25:19.597174+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -123,6 +123,20 @@
           "time_info": "[00时25分 ~ 01时19分]"
         },
         {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
           "url": "https://news.ifeng.com/c/8nUIAVA78Ut",
           "source": "凤凰网",
@@ -145,17 +159,15 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
-          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
-          "url": "https://www.cls.cn/detail/2171140",
-          "source": "财联社热门",
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            6,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 16时31分]"
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时25分]"
         },
         {
           "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
@@ -183,6 +195,17 @@
           "time_info": "[14时31分 ~ 14时32分]"
         },
         {
+          "title": "特朗普回应发军饷：有位绅士愿意付",
+          "url": "https://www.toutiao.com/trending/7560868714460823595/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
           "url": "https://flash.jin10.com/detail/20251016025935957800",
           "source": "金十数据",
@@ -192,17 +215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。",
@@ -222,7 +234,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -650,6 +662,28 @@
           "time_info": "07时20分"
         },
         {
+          "title": "特朗普称对西班牙很不爽",
+          "url": "https://www.toutiao.com/trending/7560714140441509924/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美国总统特朗普宣布名为“夏季高温行动”的全面执法行动的结果。",
           "url": "https://flash.jin10.com/detail/20251016034449123800",
           "source": "金十数据",
@@ -755,7 +789,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -990,7 +1024,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -1001,7 +1035,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -1059,8 +1093,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时29分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时29分 ~ 17时25分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -1082,11 +1116,28 @@
           "ranks": [
             9,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 17时25分]"
+        },
+        {
+          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
+          "url": "https://www.cls.cn/detail/2171004",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 17时25分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -1102,21 +1153,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 04时24分]"
-        },
-        {
-          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
-          "url": "https://www.cls.cn/detail/2171004",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 16时31分]"
         },
         {
           "title": "金十图示：2025年10月16日（周四）上海金早盘价为967.36元/克，较国际金价(971.33元/克)，低3.97元/克",
@@ -1215,8 +1251,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 17时25分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -1365,11 +1401,12 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时25分]"
         },
         {
           "title": "伊朗说国际原子能机构未履行义务致合作无法开展",
@@ -1395,7 +1432,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
