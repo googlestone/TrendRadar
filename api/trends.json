@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T21:35:12.664041+08:00",
-  "total_titles_processed": 1965,
+  "generated_at": "2025-11-13T22:21:45.319275+08:00",
+  "total_titles_processed": 2052,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时21分 ~ 21时35分]"
+          "appearance_count": 26,
+          "time_info": "[01时21分 ~ 22时21分]"
         },
         {
           "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
@@ -616,7 +616,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -743,6 +743,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "京东(JD.O)美股盘前涨幅扩大至近5%，此前第三季度营收超预期。",
           "url": "https://flash.jin10.com/detail/20251113174541985800",
           "source": "金十数据",
@@ -760,7 +771,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -793,6 +804,17 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时21分]"
+        },
+        {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -805,17 +827,6 @@
           "time_info": "[16时29分 ~ 18时26分]"
         },
         {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时35分]"
-        },
-        {
           "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
           "url": "https://www.cls.cn/detail/2199601",
           "source": "财联社热门",
@@ -826,8 +837,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时24分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 22时21分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -899,8 +910,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 22时21分]"
         },
         {
           "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
