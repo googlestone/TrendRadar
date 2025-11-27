@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T18:25:15.601537+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2025-11-27T19:20:13.405140+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -54,11 +54,12 @@
             9,
             13,
             7,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 19时20分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -69,11 +70,12 @@
             7,
             11,
             15,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时13分 ~ 18时25分]"
+          "appearance_count": 12,
+          "time_info": "[11时13分 ~ 19时20分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -90,8 +92,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 18时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时28分 ~ 19时20分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -106,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时13分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[11时13分 ~ 19时20分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -152,6 +154,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时40分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 19时20分]"
         },
         {
           "title": "特朗普下令增兵：行凶者必付出代价",
@@ -217,19 +232,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时13分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 18时25分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -327,6 +329,17 @@
           "time_info": "[04时24分 ~ 05时19分]"
         },
         {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.toutiao.com/trending/7576562131659702313/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "关系持续恶化 特朗普宣称将南非排除出明年的迈阿密G20峰会",
           "url": "https://flash.jin10.com/detail/20251127052552606800",
           "source": "金十数据",
@@ -397,6 +410,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时20分]"
+        },
+        {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "特朗普宣布“特赦”，火鸡突然大叫",
@@ -712,8 +736,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 18时25分]"
+          "appearance_count": 14,
+          "time_info": "[09时40分 ~ 19时20分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -739,6 +763,21 @@
           "time_info": "[00时28分 ~ 05时19分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时34分 ~ 19时20分]"
+        },
+        {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
           "url": "https://wallstreetcn.com/articles/3760128",
           "source": "华尔街见闻",
@@ -750,20 +789,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 07时20分]"
-        },
-        {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时34分 ~ 18时25分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -796,11 +821,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -876,8 +902,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 19时20分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -927,7 +953,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
