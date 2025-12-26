@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:24:26.199932+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2025-12-26T19:20:31.490659+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时47分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 19时20分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -131,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -163,7 +163,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -272,8 +272,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时47分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 19时20分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -484,7 +484,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
