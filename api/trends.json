@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T21:31:26.732758+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-12-28T22:21:14.103096+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时46分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 22时21分]"
         },
         {
           "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
@@ -107,8 +107,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 21时31分]"
+          "appearance_count": 8,
+          "time_info": "[18时22分 ~ 22时21分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3027672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -245,7 +256,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
@@ -258,8 +269,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时52分 ~ 21时31分]"
+          "appearance_count": 15,
+          "time_info": "[11时52分 ~ 22时21分]"
+        },
+        {
+          "title": "伊朗：从俄罗斯发射三颗卫星到太空",
+          "url": "https://wallstreetcn.com/livenews/3027666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "伊朗总统警告美以勿发动新的攻击",
@@ -362,8 +384,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 21时31分]"
+          "appearance_count": 10,
+          "time_info": "[15时21分 ~ 22时21分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
