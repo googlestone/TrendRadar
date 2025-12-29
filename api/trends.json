@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T20:49:15.091634+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2025-12-29T21:38:52.321520+08:00",
+  "total_titles_processed": 1653,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时56分 ~ 15时27分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时38分 ~ 21时38分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -54,18 +66,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时38分 ~ 20时49分]"
         },
         {
           "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
@@ -1022,8 +1022,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 21时38分]"
         },
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -1178,11 +1178,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 20时49分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 21时38分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -1192,8 +1193,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 21时38分]"
         }
       ]
     },
