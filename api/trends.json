@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T09:52:00.220509+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-01-23T11:44:46.844388+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 95,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 09时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 11时44分]"
         },
         {
           "title": "特朗普180度转折，欧洲懵了",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 09时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 11时44分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -52,19 +52,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 09时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 11时44分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 09时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 11时44分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -86,8 +87,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 09时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 11时44分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时44分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -133,17 +145,6 @@
           "time_info": "[00时38分 ~ 07时23分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
-        },
-        {
           "title": "特朗普为啥时隔一天态度变了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -174,7 +175,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -230,13 +231,24 @@
           "time_info": "[02时36分 ~ 07时23分]"
         },
         {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "特朗普痛批加州州长纽森失职，称其不配竞选总统",
           "url": "https://flash.jin10.com/detail/20260123092953807800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -247,9 +259,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -348,6 +371,18 @@
           "time_info": "[03时27分 ~ 04时31分]"
         },
         {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时44分]"
+        },
+        {
           "title": "特朗普态度为何突然转变",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%81%E5%BA%A6%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%BD%AC%E5%8F%98",
           "source": "bilibili 热搜",
@@ -429,17 +464,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时27分]"
-        },
-        {
-          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
-          "url": "https://www.cls.cn/detail/2267060",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
         },
         {
           "title": "特朗普吐槽北约盟友“不孝顺”",
@@ -559,7 +583,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -702,7 +726,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -735,7 +759,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -966,7 +990,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -980,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普左手背再现新瘀青，最新回应：吃药副作用，磕到桌子容易青",
+          "url": "https://wallstreetcn.com/livenews/3042505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "美国总统特朗普：（谈与乌克兰和俄罗斯的三边会晤）任何时候我们见面都是好事。",
@@ -1070,11 +1105,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 09时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 11时44分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -1347,7 +1383,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -1383,6 +1419,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 09时52分]"
+        },
+        {
+          "title": "特朗普威胁欧洲敢抛美债就报复",
+          "url": "https://www.douyin.com/hot/2376727",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "两年期美债收益率涨超2个基点",
@@ -1493,11 +1540,12 @@
           "url": "https://www.douyin.com/hot/2376219",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时44分]"
         },
         {
           "title": "伊朗议长称该国所有城市已恢复和平",
@@ -1565,7 +1613,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
@@ -1588,6 +1636,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 09时52分]"
+        },
+        {
+          "title": "金价还能涨多少",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%98%E8%83%BD%E6%B6%A8%E5%A4%9A%E5%B0%91&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     },
@@ -1621,11 +1680,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时44分]"
         }
       ]
     }
