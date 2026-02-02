@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T16:46:29.781848+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-02-02T17:53:14.094163+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -107,6 +107,18 @@
           "time_info": "[12时58分 ~ 15时52分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时53分]"
+        },
+        {
           "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
           "url": "https://www.cls.cn/detail/2277005",
           "source": "财联社热门",
@@ -144,24 +156,13 @@
           "time_info": "[12时58分 ~ 15时52分]"
         },
         {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时46分]"
-        },
-        {
           "title": "特朗普口风转软缓解供需忧虑 欧能股随国际油价重挫全线走低",
           "url": "https://flash.jin10.com/detail/20260202161737942800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -287,6 +288,17 @@
           "time_info": "[12时58分 ~ 12时59分]"
         },
         {
+          "title": "新爱泼斯坦档案特朗普被提超千次",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%A3%E6%A1%88%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%8F%90%E8%B6%85%E5%8D%83%E6%AC%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://wallstreetcn.com/livenews/3047836",
           "source": "华尔街见闻-快讯",
@@ -345,8 +357,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
+          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时08分 ~ 17时53分]"
+        },
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
@@ -358,17 +381,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时27分]"
-        },
-        {
-          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
-          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 16时46分]"
         },
         {
           "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
@@ -409,6 +421,17 @@
           "time_info": "[00时32分 ~ 05时25分]"
         },
         {
+          "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
+          "url": "https://news.ifeng.com/c/8qQ4FwgNOwT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
           "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
           "url": "https://flash.jin10.com/detail/20260201210033131800",
           "source": "金十数据",
@@ -444,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
+          "url": "https://wallstreetcn.com/livenews/3048278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
@@ -514,11 +548,23 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时53分]"
+        },
+        {
+          "title": "武契奇预计伊朗将在48小时内遭袭",
+          "url": "https://www.toutiao.com/trending/7602178880666157119/",
+          "source": "今日头条",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时46分]"
+          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
@@ -538,7 +584,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -571,7 +617,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -582,7 +628,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -607,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "日媒：伊朗相关局势升温，阿联酋总统将取消访日行程",
+          "url": "https://wallstreetcn.com/livenews/3048246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "以美高级军官商讨对伊朗防务安排",
@@ -637,7 +694,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         }
@@ -645,7 +702,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -707,8 +764,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 16时46分]"
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 17时53分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -718,11 +775,12 @@
             8,
             9,
             10,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 16时46分]"
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 17时53分]"
         },
         {
           "title": "金价",
@@ -750,6 +808,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "金价继续跳水：部分银行实物金条库存悄然松动，投资情绪降温",
+          "url": "https://wallstreetcn.com/livenews/3048273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "这次金价暴跌真的只是因为沃什吗",
           "url": "https://www.toutiao.com/trending/7602102244296625670/",
           "source": "今日头条",
@@ -774,6 +843,17 @@
           "time_info": "[15时52分 ~ 16时46分]"
         },
         {
+          "title": "黄金暴跌为何瑞银却上调金价目标",
+          "url": "https://www.toutiao.com/trending/7602143255571992083/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时53分]"
+        },
+        {
           "title": "金价暴跌，刚买的金饰能退吗？",
           "url": "https://news.ifeng.com/c/8qPhA47Tw2J",
           "source": "凤凰网",
@@ -786,15 +866,15 @@
           "time_info": "[15时52分 ~ 16时46分]"
         },
         {
-          "title": "黄金暴跌为何瑞银却上调金价目标",
-          "url": "https://www.toutiao.com/trending/7602143255571992083/",
+          "title": "金价史诗级暴跌是机会还是陷阱",
+          "url": "https://www.toutiao.com/trending/7602177874514988598/",
           "source": "今日头条",
           "ranks": [
-            15
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时46分]"
+          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "李大霄直播解读金价震荡",
@@ -803,9 +883,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "金价下跌逾4%，美股黄金矿业公司股价盘前下跌，哈莫尼黄金下跌5.3%，SPDR黄金ETF下跌4.1%，巴里克矿业下跌4.8%。金罗斯黄金下跌5.9%。",
+          "url": "https://flash.jin10.com/detail/20260202171934204800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -833,7 +924,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -868,6 +959,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达跌近2%，AMD跌超2.4%；存储芯片股多数走低，西部数据跌超3%；甲骨文盘前跌5%，公司今年将融资500亿美元；黄金股大跌，哈莫尼黄金跌超5%。美股能源股，西方石油跌超3%，康菲石油跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3048249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
@@ -885,8 +987,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 16时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 17时53分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -899,6 +1001,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 06时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：土耳其提高部分黄金、白银基金的最低价格限制。",
+          "url": "https://flash.jin10.com/detail/20260202154640063800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
+          "url": "https://wallstreetcn.com/livenews/3048241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
@@ -917,25 +1047,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 16时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://flash.jin10.com/detail/20260202154640063800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 17时53分]"
         }
       ]
     },
