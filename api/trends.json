@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T18:37:37.805233+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-03-06T19:31:40.797492+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 152,
+      "match_count": 166,
       "titles": [
         {
           "title": "伊朗：未封锁霍尔木兹海峡，但通行规则由伊掌控",
@@ -40,11 +40,12 @@
             10,
             12,
             14,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 18时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 19时31分]"
         },
         {
           "title": "美以袭击伊朗进入第 7 天，当前局势如何？有哪些值得关注的信息？",
@@ -56,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时52分 ~ 18时37分]"
+          "appearance_count": 14,
+          "time_info": "[07时52分 ~ 19时31分]"
         },
         {
           "title": "伊朗军方称使用无人机击中“林肯”号航母 美国国土安全部部长将换人 | 环球市场",
@@ -82,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 18时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时10分 ~ 19时31分]"
         },
         {
           "title": "霍尔木兹海峡“通了没”？伊朗方面给出不同说法",
@@ -121,8 +122,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 18时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时10分 ~ 19时31分]"
         },
         {
           "title": "伊朗导弹能否命中美国航母",
@@ -139,8 +140,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时06分 ~ 18时37分]"
+          "appearance_count": 19,
+          "time_info": "[02时06分 ~ 19时31分]"
         },
         {
           "title": "美国承认「伊朗无人机攻势比想象中难对付」，为什么这么说？为此美国将付出多大代价、美国还能打多久？",
@@ -151,8 +152,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 18时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时10分 ~ 19时31分]"
         },
         {
           "title": "伊朗断网,亚马逊接连遭殃",
@@ -163,11 +164,12 @@
             19,
             21,
             23,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 18时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 19时31分]"
         },
         {
           "title": "美承认伊朗无人机攻势比想象中难对付",
@@ -197,6 +199,17 @@
           "time_info": "[02时06分 ~ 13时47分]"
         },
         {
+          "title": "如何评价伊朗军方称使用无人机击中美军「林肯」号航母？「航母被击中」到底意味着什么？",
+          "url": "https://www.zhihu.com/question/2013150821387359764",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时46分 ~ 19时31分]"
+        },
+        {
           "title": "伊朗禁止美以欧船只通过霍尔木兹海峡",
           "url": "https://www.toutiao.com/trending/7612680098256584767/",
           "source": "今日头条",
@@ -222,17 +235,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时06分 ~ 12时43分]"
-        },
-        {
-          "title": "如何评价伊朗军方称使用无人机击中美军「林肯」号航母？「航母被击中」到底意味着什么？",
-          "url": "https://www.zhihu.com/question/2013150821387359764",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时46分 ~ 18时37分]"
         },
         {
           "title": "伊朗称用无人机击中林肯号航母",
@@ -430,6 +432,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "美以伊战争｜伊朗大规模发射先进导弹",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：“真实承诺4”第21波打击行动使用“基巴尔”弹道导弹和无人机对特拉维夫市中心的关键地点进行了联合打击。",
           "url": "https://flash.jin10.com/detail/20260306133806551800",
           "source": "金十数据",
@@ -452,6 +465,32 @@
           "time_info": "17时41分"
         },
         {
+          "title": "伊朗国防部：敌方防线正在崩溃，已做好长期战争准备",
+          "url": "https://flash.jin10.com/detail/20260306191518326800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "伊朗称击中美国林肯号航母",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12,
+            14,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 19时31分]"
+        },
+        {
           "title": "消息人士称，美方调查显示，伊朗学校遭袭事件很可能应由美国负责。",
           "url": "https://flash.jin10.com/detail/20260306095959826800",
           "source": "金十数据",
@@ -461,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：调解应针对那些低估伊朗人民并点燃这场冲突的人。",
+          "url": "https://flash.jin10.com/detail/20260306191319712800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "日本财务大臣片山皋月：正如首相此前所言，编制补充预算当然是一个选项。 政府已准备好采取及时措施，以应对伊朗冲突对经济造成的冲击。",
@@ -496,15 +546,26 @@
           "time_info": "12时43分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队：“真实承诺4”第22轮行动已开始",
-          "url": "https://wallstreetcn.com/livenews/3065183",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统佩泽希齐扬：但我们在捍卫国家的尊严和权威上毫不犹豫。",
+          "url": "https://flash.jin10.com/detail/20260306191127185800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "19时31分"
+        },
+        {
+          "title": "最后的血性！伊朗护卫舰被命中沉没前，发射最后一枚导弹",
+          "url": "https://v.ifeng.com/c/8rHEyj4F4pH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "据伊朗努尔新闻：伊朗东北部马什哈德部分地区启动防空系统。",
@@ -524,9 +585,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们对他们的回应很明确，我们致力于地区的持久和平。",
+          "url": "https://flash.jin10.com/detail/20260306191017599800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "伊朗军方称会对美以发动更猛烈回击",
@@ -549,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "中方是否向伊朗提供了军事支持？外交部回应",
+          "url": "https://news.ifeng.com/c/8rH3OdzVELl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "伊朗红新月会称，超过3000套房屋因美以袭击受损。",
@@ -579,9 +662,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：一些国家已启动斡旋努力。",
+          "url": "https://flash.jin10.com/detail/20260306190952084800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "克里姆林宫称伊朗战争期间对俄罗斯能源的需求更高，俄罗斯仍然是可靠的能源供应国。（IFX）",
@@ -593,20 +687,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
-        },
-        {
-          "title": "伊朗称击中美国林肯号航母",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 18时37分]"
         },
         {
           "title": "伊朗突破“萨德”袭击以国防部大楼",
@@ -685,6 +765,19 @@
           "time_info": "[14时53分 ~ 15时40分]"
         },
         {
+          "title": "中方对伊朗的支持是否涉及军事方面？外交部回应",
+          "url": "https://www.cls.cn/detail/2305024",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时31分]"
+        },
+        {
           "title": "伊朗临时领导委员会举行第四次会议",
           "url": "https://flash.jin10.com/detail/20260306041231045800",
           "source": "金十数据",
@@ -695,6 +788,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时37分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：“真实承诺4”第22轮行动已开始",
+          "url": "https://wallstreetcn.com/livenews/3065183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 19时31分]"
         },
         {
           "title": "美国中央司令部司令：我们已打击伊朗相当于太空司令部的机构。",
@@ -783,17 +888,16 @@
           "time_info": "[02时06分 ~ 06时34分]"
         },
         {
-          "title": "中方对伊朗的支持是否涉及军事方面？外交部回应",
-          "url": "https://www.cls.cn/detail/2305024",
-          "source": "财联社热门",
+          "title": "伊朗一儿童游乐场遭袭",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%80%E5%84%BF%E7%AB%A5%E6%B8%B8%E4%B9%90%E5%9C%BA%E9%81%AD%E8%A2%AD%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
             7,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时37分]"
+          "time_info": "[17时41分 ~ 19时31分]"
         },
         {
           "title": "以军称监测到伊朗再向以方发射弹道导弹",
@@ -807,6 +911,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时37分]"
+        },
+        {
+          "title": "伊朗称击中美国林肯号航母",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时31分]"
         },
         {
           "title": "伊朗外长拒绝与美国谈判",
@@ -856,18 +971,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时06分 ~ 10时10分]"
-        },
-        {
-          "title": "伊朗一儿童游乐场遭袭",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%80%E5%84%BF%E7%AB%A5%E6%B8%B8%E4%B9%90%E5%9C%BA%E9%81%AD%E8%A2%AD%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时37分]"
         },
         {
           "title": "世卫组织总干事谭德塞：世卫组织已核实伊朗境内发生了13起针对医疗设施的袭击，黎巴嫩境内发生一起。",
@@ -990,17 +1093,6 @@
           "time_info": "[06时34分 ~ 07时53分]"
         },
         {
-          "title": "伊朗称击中美国林肯号航母",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时37分]"
-        },
-        {
           "title": "伊朗高速公路两处地点遭袭 已有30人遇难",
           "url": "https://wallstreetcn.com/livenews/3064672",
           "source": "华尔街见闻-快讯",
@@ -1058,6 +1150,17 @@
           "time_info": "[04时39分 ~ 05时37分]"
         },
         {
+          "title": "伊朗有限“锁喉”：中国尚能应对，美西方措手不及，局势如何发展",
+          "url": "https://news.ifeng.com/c/8rHEqQ5d8hb",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "延时摄影显示，伊朗伊斯法罕市有大量人群参加为在美以战争中殉国者举行的葬礼游行。",
           "url": "https://flash.jin10.com/detail/20260306142935515800",
           "source": "金十数据",
@@ -1078,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "伊朗外长强烈谴责美军无预警袭击“德纳”号护卫舰",
+          "url": "https://wallstreetcn.com/livenews/3065216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "法国交通部长塔巴罗：受伊朗危机影响，约50艘船只通行受阻。",
@@ -1196,7 +1310,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1245,6 +1359,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "伊朗称袭击以色列最大机场",
+          "url": "https://www.toutiao.com/trending/7613405988388945974/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "市场消息：伊朗方面称目前没有关闭霍尔木兹海峡的意图。",
           "url": "https://flash.jin10.com/detail/20260306014107446800",
           "source": "金十数据",
@@ -1276,6 +1401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "美媒：俄罗斯为伊朗提供美军定位 间接介入中东战局",
+          "url": "https://flash.jin10.com/detail/20260306190332434800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "伊朗称向以色列特拉维夫发射导弹和无人机",
@@ -1353,6 +1489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "伊朗驻俄罗斯大使卡泽姆·贾拉利：伊朗从不投降，将继续抵抗美以侵略。",
+          "url": "https://flash.jin10.com/detail/20260306185806995800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "以军称摧毁伊朗弹道导弹发射装置和防御系统",
@@ -1515,7 +1662,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1581,7 +1728,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1603,7 +1750,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1735,7 +1882,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1782,12 +1929,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "美以袭击已致1332名伊朗人死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E5%B7%B2%E8%87%B41332%E5%90%8D%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -1798,8 +1956,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时06分 ~ 18时37分]"
+          "appearance_count": 19,
+          "time_info": "[02时06分 ~ 19时31分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -1868,8 +2026,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 18时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时10分 ~ 19时31分]"
         },
         {
           "title": "美以伊战争最新动态｜牧师围着特朗普为他和美军祈祷",
@@ -1918,6 +2076,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时52分 ~ 17时41分]"
+        },
+        {
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 19时31分]"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -1975,19 +2147,6 @@
           "time_info": "[02时06分 ~ 06时34分]"
         },
         {
-          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 18时37分]"
-        },
-        {
           "title": "美国国防部长赫格塞思：（被问及特朗普有关“有权决定伊朗下一任领导人”的言论）美国并未扩大其在伊朗的军事目标。",
           "url": "https://flash.jin10.com/detail/20260306061952883800",
           "source": "金十数据",
@@ -2022,6 +2181,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
+          "url": "https://www.cls.cn/detail/2304727",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时31分]"
         },
         {
           "title": "美国24州联合起诉特朗普政府",
@@ -2060,19 +2233,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时39分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普承诺护航霍尔木兹 高盛也来“泼冷水”：可行性存疑！",
-          "url": "https://www.cls.cn/detail/2304727",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时37分]"
         },
         {
           "title": "美国国土安全部部长将换人，特朗普提名新人选",
@@ -2181,6 +2341,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
+          "url": "https://wallstreetcn.com/articles/3766863",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "特朗普要求立即赦免以色列总理内塔尼亚胡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32710617",
           "source": "澎湃新闻",
@@ -2198,7 +2369,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -2440,7 +2611,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -2679,7 +2850,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         }
@@ -2696,11 +2867,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 18时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时10分 ~ 19时31分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
@@ -2819,8 +2991,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时52分 ~ 18时37分]"
+          "appearance_count": 14,
+          "time_info": "[07时52分 ~ 19时31分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -2840,7 +3012,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
