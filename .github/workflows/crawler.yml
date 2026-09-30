@@ -46,6 +46,8 @@ concurrency:
 permissions:
   contents: read
   actions: write
+  pages: write
+  id-token: write
 
 jobs:
   crawl:
@@ -168,6 +170,29 @@ jobs:
           S3_REGION: ${{ secrets.S3_REGION }}
           GITHUB_ACTIONS: true
         run: uv run python -m trendradar
+
+      - name: Prepare GitHub Pages
+        if: success()
+        run: |
+          test -f index.html
+          rm -rf pages_dist
+          mkdir -p pages_dist
+          cp index.html pages_dist/index.html
+
+      - name: Configure GitHub Pages
+        if: success()
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages artifact
+        if: success()
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: pages_dist
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        id: deployment
+        uses: actions/deploy-pages@v4
 
       # --------------------------------------------------------------------------------
       # ☁️ CLOUDFLARE PAGES DEPLOY / 部署到 Cloudflare Pages（可选）
